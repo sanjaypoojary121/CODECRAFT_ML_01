@@ -66,3 +66,9 @@ SalePrice       0
 dtype: int64
 R² Score: 0.6341189942328371
 RMSE: 52975.71771338122
+
+Author:
+
+- Name: Sanjaya S  
+- Internship: Machine Learning Intern at CODE CRAFT
+
